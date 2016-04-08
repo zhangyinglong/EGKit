@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EGKit
 
 [![CI Status](http://img.shields.io/travis/zhangyinglong/EGKit.svg?style=flat)](https://travis-ci.org/zhangyinglong/EGKit)
@@ -27,3 +28,6 @@ zhangyinglong, zyl04401@gmail.com
 ## License
 
 EGKit is available under the MIT license. See the LICENSE file for more info.
+=======
+# EGKit
+>>>>>>> 3ccaff2fedded0ec7cf94b74e99a0b8e42b3797d
